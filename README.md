@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Full Stack Web Developer.<br>🌱 I’m currently learning more about Web Development.<br>🤔 I’m looking to explore new technologies in Web Development.<br>💬 Ask me about tech-related stuff.<br>📫 How to reach me: Email: usmananwar1995@hotmail.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: My favorite song is Unstoppable.
+🔭 I’m currently working as a Full Stack Developer.<br>🌱 I’m currently learning more about Development.<br>🤔 I’m looking to explore new technologies in Development.<br>💬 Ask me about tech-related stuff.<br>📫 How to reach me: Email: usmananwar1995@hotmail.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: My favorite song is Unstoppable.
 
 
 ## 🌐 Socials:
